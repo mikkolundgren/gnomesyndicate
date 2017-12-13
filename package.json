@@ -1,0 +1,19 @@
+{
+  "name": "gnomesyndicate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkolundgren/gnomesyndicate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkolundgren/gnomesyndicate/issues"
+  },
+  "homepage": "https://github.com/mikkolundgren/gnomesyndicate#readme"
+}
