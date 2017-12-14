@@ -10,7 +10,7 @@ app.set('view engine', 'handlebars');
 
 var options = {
   dotfiles: 'ignore',
-  extensions: ['htm', 'html'],
+  extensions: ['htm', 'html', 'css'],
   index: false
 };
 
